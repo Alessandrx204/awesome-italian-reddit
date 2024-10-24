@@ -36,11 +36,11 @@ Updated with `python update.py` on 2024-09-13. Browse the [webpage](https://dani
 | [r/Italian](https://www.reddit.com/r/Italian/) | [32960](https://subredditstats.com/r/Italian) | 2010-05-04 | No particular rule, follow the Reddit guidelines a |
 | [r/brescia](https://www.reddit.com/r/brescia/) | [24179](https://subredditstats.com/r/brescia) | 2016-06-26 |  |
 | [r/CasualIT](https://www.reddit.com/r/CasualIT/) | [20813](https://subredditstats.com/r/CasualIT) | 2021-04-22 | r/CasualIT: una comunità italiana polleggiata    R |
+| [r/Italianscamads](https://www.reddit.com/r/Italianscamads/) | [14646](https://subredditstats.com/r/Italianscamads) | 2024-03-25 |  |
 | [r/TeenagersITA](https://www.reddit.com/r/TeenagersITA/) | [15690](https://subredditstats.com/r/TeenagersITA) | 2020-10-08 | Per maggiori informazioni sulla comunità consultar |
 | [r/avvocati](https://www.reddit.com/r/avvocati/) | [15568](https://subredditstats.com/r/avvocati) | 2019-10-04 | Sub dedicato a quei pochi che praticano la legge e |
 | [r/ItaliaMeme](https://www.reddit.com/r/ItaliaMeme/) | [15190](https://subredditstats.com/r/ItaliaMeme) | 2020-03-30 | Community per memes, immagini divertenti, battute  |
 | [r/ItalyPhotos](https://www.reddit.com/r/ItalyPhotos/) | [15006](https://subredditstats.com/r/ItalyPhotos) | 2014-10-27 | **Benvenuti in /r/ItalyPhotos, a subreddit dedicat |
-| [r/Italianscamads](https://www.reddit.com/r/Italianscamads/) | [14646](https://subredditstats.com/r/Italianscamads) | 2024-03-25 |  |
 | [r/oknotizie](https://www.reddit.com/r/oknotizie/) | [14468](https://subredditstats.com/r/oknotizie) | 2016-12-22 | [](/sidebar) [](http://www.guardatv.it/) [](https: |
 | [r/Psicologia_Italia](https://www.reddit.com/r/Psicologia_Italia/) | [10392](https://subredditstats.com/r/Psicologia_Italia) | 2020-05-01 | Il Primo Subreddit in Italiano dedicato alla Psico |
 | [r/politicaITA](https://www.reddit.com/r/politicaITA/) | [10166](https://subredditstats.com/r/politicaITA) | 2014-01-26 | **Due spettri si aggirano per il pianeta: gli spet |
